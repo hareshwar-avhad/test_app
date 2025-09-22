@@ -1,0 +1,4 @@
+This is my understanding about git :
+Git track changes
+Branching allows isolated work
+pull request mere changes safely
